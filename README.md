@@ -9,9 +9,10 @@
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-### Hi!👋 I'm Mizu🍊
+### Hi!👋 I'? ER RICKOW🍊
 
-**Weeb Developer and Gamer** 
+> **IDK.... MY BRAIN IS LOADING
+...** 
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
