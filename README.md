@@ -2,9 +2,9 @@
 <br/>
 
  <p align="center">
-  <a href="#"> <img src="gambar/2.gif"><a/>
+  <a href="#"> <img src="gambar/0.gif"><a/>
   <a href="#"><img src="gambar/8.gif"><a/>
-  <a href="#"><img src="gambar/0.gif"><a/>
+  <a href="#"><img src="gambar/2.gif"><a/>
   <a href="#"><img src="gambar/6.gif"><a/>
 </p>
 
