@@ -1,4 +1,4 @@
-### <p align="center"><img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="90"> **_WELCUM_**
+### <p align="center">**_WELCUM_**<img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="90"> **_WELCUM_**
 </p>
  <p align="center">
   <a href="#"><img
@@ -7,13 +7,13 @@
   <a href="#"><img src="gambar/6.gif"><a/>
 </p>
 
-## **ABOUT ME**
+## **👤ABOUT ME**
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro_thumb.png"></a>
 I'm er rickow and my hobbies are playing ur heart. So, don't too close on me and you will be find.
 _also i'm noob on this coding_.
 <br><br>
 
-## **📊 Github Stats**
+## **📊Github Stats**
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
