@@ -17,8 +17,8 @@ _also i'm noob on this coding_.
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ErRickow/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ErRickow/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
