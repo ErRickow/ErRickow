@@ -1,4 +1,4 @@
-### <p align="center"><img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="50"> **Welcum 2 Er**
+### <p align="center"><img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="90"> **_WELCUM_**
 </p>
  <p align="center">
   <a href="#"><img
