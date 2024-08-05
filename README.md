@@ -15,6 +15,9 @@
 > **IDK.... MY BRAIN IS LOADING
 ...** 
 
+
+## <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
+
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
