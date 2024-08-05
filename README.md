@@ -16,6 +16,10 @@ _also i'm noob on this coding_.
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
+## ** Experience**
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
+I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ErRickow}/count.svg" alt="ErRickow :: Visitor's Count" /></p>
