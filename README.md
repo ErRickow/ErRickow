@@ -1,4 +1,4 @@
-### <p align="center"><img src="https://tenor.com/bFMAc.gif"width="30"></p>
+### <p align="center"><img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif"width="30"></p>
  <p align="center">
   <a href="#"><img
   src="gambar/2.gif"><a/>
