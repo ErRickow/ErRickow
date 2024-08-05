@@ -10,7 +10,7 @@
 
 ## **ABOUT ME**
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro_switch.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+I'm Er Rickow and my hobbies are playing ur heart, so don't to close on and you will be find, sometimes i learn about coding too.
 <br><br>
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
