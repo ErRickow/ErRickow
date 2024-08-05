@@ -1,4 +1,5 @@
-### <p align="center"><img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif"width="30"></p>
+### <p align="center">Hey <img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif"width="30"> nganu
+</p>
  <p align="center">
   <a href="#"><img
   src="gambar/2.gif"><a/>
