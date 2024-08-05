@@ -17,7 +17,7 @@ _also i'm noob on this coding_.
 </p>
 
 ## ** Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./gambar/mahiro_cry.png"></a>
 No Experience hehe.. Just otak atik doang.
 
 ## **🧋MK - Moment Ketika**
@@ -25,7 +25,6 @@ No Experience hehe.. Just otak atik doang.
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro.png"></a>
 ```yaml
 Momen Ketika Lunya Sedang Ngeliat PP Ku.
-
 Hehe~ auto nganu.
 ```
 
