@@ -17,12 +17,12 @@ _also i'm noob on this coding_.
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
-## ** Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./gambar/mahiro_cry.png"></a>
+## **🌹Experience**
+<a href="https://github.com/ErRickow"><img align="right" width="100" src="./gambar/mahiro_cry.png"></a>
 No Experience jir.. Just otak atik doang.
 
 ## **🧋MK - Moment Ketika**
-<img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"></a>
+<img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro.png"></a>
 ```yaml
 Momen Ketika Lunya Sedang Ngeliat PP Ku.
