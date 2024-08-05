@@ -2,7 +2,6 @@
 <br/>
 
  <p align="center">
-  
   <a href="#"><img
   src="gambar/2.gif"><a/>
   <a href="#"><img
