@@ -1,5 +1,4 @@
 ### <p align="center"><img width="50%" src="https://camo.githubusercontent.com/d895f9795055136ce45aa585b92bf0cbf845c3e45190b3a1422ea47df22b4a3d/68747470733a2f2f692e6962622e636f2f543063683966472f7070322e706e67"/> </p>
-<br/>
  <p align="center">
   <a href="#"><img
   src="gambar/2.gif"><a/>
