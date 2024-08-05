@@ -10,8 +10,12 @@
 
 ## **ABOUT ME**
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro_switch.png"></a>
-I'm Er Rickow and my hobbies are playing ur heart. so, don't too close on me and you will be find. _i'm noob on this coding_.
+I'm er rickow and my hobbies are playing ur heart. So, don't too close on me and you will be find.
+_and i'm noob on this coding_.
 <br><br>
+
+## **📊 Github Stats**
+
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
