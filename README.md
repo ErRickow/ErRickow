@@ -1,4 +1,4 @@
-### <p align="center"><img width="90%" src="https://camo.githubusercontent.com/d895f9795055136ce45aa585b92bf0cbf845c3e45190b3a1422ea47df22b4a3d/68747470733a2f2f692e6962622e636f2f543063683966472f7070322e706e67"/> </p>
+### <p align="center"><img src="https://media1.tenor.com/m/EgBho6VyZQ4AAAAC/hi.gif"/> </p>
  <p align="center">
   <a href="#"><img
   src="gambar/2.gif"><a/>
