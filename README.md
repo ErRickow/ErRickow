@@ -1,8 +1,8 @@
-### <p align="center">**Hi! WELCOME TO ER Rickow**</p>
+### <p align="center">**Hi! WELCOME  ER Rickow**</p>
 <br/>
 
  <p align="center">
-  <a href="#"> <img src="gambar/2.gif"><a/>
+  
   <a href="#"><img src="gambar/8.gif"><a/>
   <a href="#"><img src="gambar/0.gif"><a/>
   <a href="#"><img src="gambar/6.gif"><a/>
