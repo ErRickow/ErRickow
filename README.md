@@ -25,8 +25,10 @@ No Experience hehe.. Just otak atik doang.
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro.png"></a>
 ```yaml
 Momen Ketika Lunya Sedang Ngeliat PP Ku.
+
 Hehe~ auto nganu.
 ```
+
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
