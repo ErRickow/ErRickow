@@ -18,7 +18,11 @@ _also i'm noob on this coding_.
 
 ## ** Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+No Experience hehe.. Just otak atik doang.
+
+## **🧋MK - Moment Ketika**
+<a href="https://wa.me/6285701699102/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"></a>
+<a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro.png"></a>
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
