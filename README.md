@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="30"> nganu
+### <p align="center">Hey <img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="35"> nganu
 </p>
  <p align="center">
   <a href="#"><img
