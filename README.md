@@ -2,8 +2,6 @@
  <p align="center">
   <a href="#"><img
   src="gambar/2.gif"><a/>
-  <a href="#"><img
-  src="gambar/8.gif"><a/>
   <a href="#"><img src="gambar/0.gif"><a/>
   <a href="#"><img src="gambar/6.gif"><a/>
 </p>
@@ -16,8 +14,11 @@ _also i'm noob on this coding_.
 <br><br>
 
 ## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ErRickow&theme=github-dark&hide_border=true&locale=id&card_width=50&card_height=45" alt="GitHub Streak" /></a>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
