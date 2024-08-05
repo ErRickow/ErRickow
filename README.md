@@ -23,6 +23,11 @@ No Experience hehe.. Just otak atik doang.
 ## **🧋MK - Moment Ketika**
 <a href="https://wa.me/6285701699102/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"></a>
 <a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro.png"></a>
+```yaml
+Momen Ketika Lunya Sedang Ngeliat PP Ku.
+
+Hehe~ auto nganu.
+```
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
 
