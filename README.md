@@ -11,7 +11,7 @@
 </p>
 
 ## **ABOUT ME**
-<a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro_switch.png"></a>
+<a href="https://github.com/ErRickow"><img align="left" width="100" src="./gambar/mahiro.png"></a>
 I'm er rickow and my hobbies are playing ur heart. So, don't too close on me and you will be find.
 _and i'm noob on this coding_.
 <br><br>
