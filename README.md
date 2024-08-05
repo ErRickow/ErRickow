@@ -3,7 +3,10 @@
 
  <p align="center">
   
-  <a href="#"><img src="gambar/8.gif"><a/>
+  <a href="#"><img
+  src="gambar/2.gif"><a/>
+  <a href="#"><img
+  src="gambar/8.gif"><a/>
   <a href="#"><img src="gambar/0.gif"><a/>
   <a href="#"><img src="gambar/6.gif"><a/>
 </p>
@@ -15,7 +18,7 @@ _and i'm noob on this coding_.
 <br><br>
 
 ## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_owner=true,prs"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 <h4 align="center"><i class="fas fa-align-center"></i>No One Can See Me In Here! :eyes:</h4>
