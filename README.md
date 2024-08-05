@@ -18,7 +18,7 @@ _also i'm noob on this coding_.
 
 ## ** Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./gambar/mahiro_cry.png"></a>
-No Experience hehe.. Just otak atik doang.
+No Experience jir.. Just otak atik doang.
 
 ## **🧋MK - Moment Ketika**
 <img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"></a>
