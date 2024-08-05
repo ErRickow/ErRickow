@@ -1,4 +1,4 @@
-### <p align="center">**Allo** <img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="35"> **Welcum 2 Er**
+### <p align="center"><img src="https://media.tenor.com/2TUjYgfeajQAAAAi/tkthao219-lengtoo.gif" width="50"> **Welcum 2 Er**
 </p>
  <p align="center">
   <a href="#"><img
