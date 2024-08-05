@@ -6,10 +6,13 @@
 
 <div align="center">
 
-![Preview](./images/bg.webp)
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
 
 <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
+</div>
 
 ### Hi!👋 I'? ER RICKOW🍊
 
