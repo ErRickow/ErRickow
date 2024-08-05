@@ -26,5 +26,5 @@ _also i'm noob on this coding_.
 <p align="center"><img src="https://profile-counter.glitch.me/{ErRickow}/count.svg" alt="ErRickow :: Visitor's Count" /></p>
 
 <div align="center">
-    <img src="https://typograssy.deno.dev/api?text=Terimakasih%20Udah%20Liat%20Profil Gw!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=" alt="Terimakasih Udah Liat Profil Gw!">
+    <img src="https://typograssy.deno.dev/api?text=terimakasih%20udah%20liat%20profil gw!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=" alt="Terimakasih Udah Liat Profil Gw!">
 </div>
