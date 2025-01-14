@@ -14,8 +14,8 @@ _also i'm noob on this coding_.
 <br><br>
 
 ## **📊Stats?**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
