@@ -16,8 +16,8 @@ _also i'm noob on this coding_.
 ## **📊Stats?**
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## **🌹Experience**
 <a href="https://github.com/ErRickow"><img align="right" width="100" src="./gambar/mahiro_cry.png"></a>
