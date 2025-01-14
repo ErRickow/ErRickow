@@ -13,8 +13,10 @@ I'm er rickow and my hobbies are playing ur heart. So, don't too close on me and
 _also i'm noob on this coding_.
 <br><br>
 
-## **📊Github Stats**
+## **📊Stats?**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
