@@ -14,6 +14,7 @@ _also i'm noob on this coding_.
 <br><br>
 
 ## **📊Github Stats**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
