@@ -14,8 +14,8 @@ _also i'm noob on this coding_.
 <br><br>
 
 ## **📊Github Stats**
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ErRickow&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 
 ## **🌹Experience**
 <a href="https://github.com/ErRickow"><img align="right" width="100" src="./gambar/mahiro_cry.png"></a>
