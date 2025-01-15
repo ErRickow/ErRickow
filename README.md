@@ -14,8 +14,6 @@ _also i'm noob on this coding_.
 <br><br>
 
 ## **📊Stats?**
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErRickow&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
