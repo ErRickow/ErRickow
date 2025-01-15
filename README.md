@@ -17,36 +17,38 @@ _also i'm noob on this coding_.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ErRickow&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErRickow&layout=compact)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 251.1 kB Used in GitHub's Storage 
+> 📦 251.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 64 Public Repositories 
+> 📜 65 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1746 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                1795 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-🌃 Evening                3820 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
-🌙 Night                  4916 commits        ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌞 Morning                1756 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+🌆 Daytime                1797 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+🌃 Evening                3825 commits        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+🌙 Night                  4943 commits        ██████████░░░░░░░░░░░░░░░   40.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1987 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Tuesday                  1373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Wednesday                1800 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Thursday                 1166 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Friday                   1420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Saturday                 2215 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Sunday                   2316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Monday                   1997 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Tuesday                  1373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Wednesday                1831 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 1169 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Friday                   1420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Saturday                 2215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Sunday                   2316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
 ```
 
 
@@ -84,7 +86,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 20:21:20 UTC
+ Last Updated on 15/01/2025 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
