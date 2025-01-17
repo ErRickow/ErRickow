@@ -21,7 +21,7 @@ _also i'm noob on this coding_.
 
 **🐱 My GitHub Data** 
 
-> 📦 251.3 kB Used in GitHub's Storage 
+> 📦 251.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -60,7 +60,7 @@ TypeScript               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 18:49:10 UTC
+ Last Updated on 17/01/2025 18:48:24 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
