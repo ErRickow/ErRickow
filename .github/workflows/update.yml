@@ -1,22 +1,26 @@
-name: README Info Update
+name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs at 12 AM IST (6:30 PM UTC)
+    - cron: '30 18 * * *'
   workflow_dispatch:
+
+permissions: write
 
 jobs:
   update-readme:
-    name: GitHub README Generator
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
+      - name: Update README with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
+          WAKATIME_API_KEY: ${{ secrets.WAKA }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TIMEZONE: "Asia/Kolkata"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAILY_COMMIT: "False"
-          SHOW_WEEKLY_COMMIT: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_EDITORS: false
+          SYMBOL_VERSION: 2
+          
