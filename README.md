@@ -15,6 +15,8 @@ _also i'm noob on this coding_.
 
 ## **📊Stats?**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -59,7 +61,7 @@ Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 18:57:39 UTC
+ Last Updated on 14/05/2025 18:59:48 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
