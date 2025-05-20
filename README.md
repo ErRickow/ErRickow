@@ -21,7 +21,7 @@ _also i'm noob on this coding_.
 
 **🐱 My GitHub Data** 
 
-> 📦 325.6 kB Used in GitHub's Storage 
+> 📦 326.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -61,7 +61,7 @@ Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 18:59:10 UTC
+ Last Updated on 20/05/2025 19:00:26 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
