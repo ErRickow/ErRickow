@@ -23,6 +23,8 @@ _also i'm noob on this coding_.
 
 > 📦 327.4 kB Used in GitHub's Storage 
  > 
+> 🏆 5,091 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 73 Public Repositories 
@@ -61,7 +63,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 18:54:20 UTC
+ Last Updated on 25/05/2025 18:54:58 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
