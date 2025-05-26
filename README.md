@@ -17,13 +17,13 @@ _also i'm noob on this coding_.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.4 kB Used in GitHub's Storage 
+> 📦 327.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5,091 Contributions in the Year 2025
+> 🏆 5,094 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +63,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 18:54:58 UTC
+ Last Updated on 26/05/2025 18:56:40 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
