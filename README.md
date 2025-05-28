@@ -17,17 +17,17 @@ _also i'm noob on this coding_.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.5 kB Used in GitHub's Storage 
+> 📦 327.7 kB Used in GitHub's Storage 
  > 
-> 🏆 5,094 Contributions in the Year 2025
+> 🏆 5,262 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 72 Private Repositories 
  > 
@@ -49,11 +49,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               30 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.41 % 
-JavaScript               15 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.71 % 
-HTML                     5 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.90 % 
-Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.96 % 
-CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.98 % 
+TypeScript               29 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.16 % 
+JavaScript               17 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.50 % 
+HTML                     5 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.85 % 
+Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.94 % 
+CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.97 % 
 ```
 
 
@@ -63,7 +63,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 18:56:40 UTC
+ Last Updated on 28/05/2025 18:58:29 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
