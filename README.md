@@ -21,9 +21,9 @@ _also i'm noob on this coding_.
 
 **🐱 My GitHub Data** 
 
-> 📦 328.2 kB Used in GitHub's Storage 
+> 📦 328.0 kB Used in GitHub's Storage 
  > 
-> 🏆 5,482 Contributions in the Year 2025
+> 🏆 5,555 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +63,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:55:22 UTC
+ Last Updated on 01/06/2025 18:55:45 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
