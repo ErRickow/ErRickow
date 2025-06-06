@@ -21,13 +21,13 @@ _also i'm noob on this coding_.
 
 **🐱 My GitHub Data** 
 
-> 📦 328.8 kB Used in GitHub's Storage 
+> 📦 328.9 kB Used in GitHub's Storage 
  > 
-> 🏆 5,604 Contributions in the Year 2025
+> 🏆 5,607 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 77 Public Repositories 
+> 📜 78 Public Repositories 
  > 
 > 🔑 74 Private Repositories 
  > 
@@ -49,11 +49,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               31 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.70 % 
-JavaScript               18 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
-HTML                     7 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.48 % 
-Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 % 
-CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.93 % 
+TypeScript               32 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.36 % 
+JavaScript               18 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.51 % 
+HTML                     7 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.42 % 
+Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.83 % 
+CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.92 % 
 ```
 
 
@@ -63,7 +63,7 @@ CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 19:11:01 UTC
+ Last Updated on 06/06/2025 19:02:14 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹Experience**
