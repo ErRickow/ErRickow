@@ -17,6 +17,13 @@ jobs:
           GH_TOKEN: ${{ secrets.TOKEN }}
           SHOW_TOTAL_CODE_TIME: True
           SHOW_COMMIT: False
+          SHOW_LANGUAGE_PER_REPO: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_EDITORS: False
-          SYMBOL_VERSION: 2
+          SHOW_LOC_CHART: False
+          SHOW_LINES_OF_CODE: True
+          SHOW_OS: False
+          SHOW_PROJECTS: False
+          SYMBOL_VERSION: 3
+          DEBUG_LOGGING: False
+          UPDATED_DATE_FORMAT: "%d-%m-%Y %H:%M"
