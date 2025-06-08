@@ -19,15 +19,13 @@ _Building web apps and RESTful APIs all **by myself** can be stressful, but seei
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-![gh-strike](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DErRickow%26type%3Djson)
-
-![+](https://github-readme-activity-graph.vercel.app/graph?username=errickow&theme=react)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 329.0 kB Used in GitHub's Storage 
+> 📦 329.2 kB Used in GitHub's Storage 
  > 
-> 🏆 5,610 Contributions in the Year 2025
+> 🏆 5,630 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -42,32 +40,10 @@ _Building web apps and RESTful APIs all **by myself** can be stressful, but seei
 
 💬 Programming Languages: 
 No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-TypeScript               32 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.36 % 
-JavaScript               18 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.51 % 
-HTML                     7 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.42 % 
-Svelte                   2 repos             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.83 % 
-CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.92 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ErRickow/ErRickow/main/assets/bar_graph.png)
-
-
- Last Updated on 07/06/2025 18:56:12 UTC
+ Last Updated on 08-06-2025 17:33 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹 Experience**
