@@ -13,11 +13,17 @@
 I'm Er Rickow from **Central Java, Indonesia**. I'm a Fullstack Developer.  
 _Building web apps and RESTful APIs all **by myself** can be stressful, but seeing the results makes me happy — every improvement feels like reaching a new level_.
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/er_rickow?style=social&link=https%3A%2F%2Fx.com%2Fer_rickow)
+
 ## **📊Stats?**
+![+](https://github-readme-activity-graph.vercel.app/graph?username=errickow&theme=github)
+
+![gh-strike](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DErRickow%26type%3Djson)
+          
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
 
@@ -43,7 +49,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08-06-2025 18:57 UTC
+ Last Updated on 08-06-2025 17:33 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹 Experience**
@@ -65,6 +71,9 @@ function getData() {
   // lupa return!
 }
 ```
+
+## Contacts ☕
+[![wa](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285701699102) [![+](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://facebook.com/@errickow) [![+](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hub@erdev.biz.id)
 
 ##
 
