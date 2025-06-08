@@ -13,7 +13,7 @@
 I'm Er Rickow from **Central Java, Indonesia**. I'm a Fullstack Developer.  
 _Building web apps and RESTful APIs all **by myself** can be stressful, but seeing the results makes me happy — every improvement feels like reaching a new level_.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/er_rickow?style=social&link=https%3A%2F%2Fx.com%2Fer_rickow)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/er_rickow?style=social&link=https%3A%2F%2Fx.com%2Fer_rickow)](https://x.com/er_rickow)
 
 ## **📊Stats?**
 ![+](https://github-readme-activity-graph.vercel.app/graph?username=errickow&theme=github)
