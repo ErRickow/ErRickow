@@ -25,11 +25,11 @@ _Building web apps and RESTful APIs all **by myself** can be stressful, but seei
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 403.0 kB Used in GitHub's Storage 
+> 📦 403.2 kB Used in GitHub's Storage 
  > 
 > 🏆 165 Contributions in the Year 2026
  > 
@@ -49,7 +49,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23-02-2026 22:15 UTC
+ Last Updated on 24-02-2026 21:59 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹 Experience**
