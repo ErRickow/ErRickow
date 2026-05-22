@@ -21,15 +21,13 @@ _Building web apps and RESTful APIs all **by myself** can be stressful, but seei
 ![gh-strike](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DErRickow%26type%3Djson)
           
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 470.0 kB Used in GitHub's Storage 
+> 📦 470.6 kB Used in GitHub's Storage 
  > 
 > 🏆 191 Contributions in the Year 2026
  > 
@@ -49,7 +47,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21-05-2026 21:49 UTC
+ Last Updated on 22-05-2026 21:44 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹 Experience**
