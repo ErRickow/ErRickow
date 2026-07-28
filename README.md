@@ -21,8 +21,6 @@ _Building web apps and RESTful APIs all **by myself** can be stressful, but seei
 ![gh-strike](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DErRickow%26type%3Djson)
           
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.88%20million%20lines%20of%20code-blue?style=flat)
@@ -39,23 +37,8 @@ _Building web apps and RESTful APIs all **by myself** can be stressful, but seei
  > 
 > 🔑 99 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 27-07-2026 23:55 UTC
+ Last Updated on 28-07-2026 23:33 UTC
 <!--END_SECTION:waka-->
 
 ## **🌹 Experience**
